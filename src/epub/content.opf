@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/ivan-turgenev/fathers-and-children/constance-garnett</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-03-25T19:30:29Z</dc:date>
+		<meta property="dcterms:modified">2019-03-25T19:30:29Z</meta>
 		<meta property="se:revision-number">0</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -45,14 +45,20 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Arkady returns to his father’s estate accompanied by his friend from university—a nihilist.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"> &lt;p&gt;Arkady, a university graduate, returns from &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg to his father’s estate with his mentor Bazarov—a nihilist.&lt;/p&gt; &lt;p&gt;&lt;i&gt;Fathers and Children&lt;/i&gt; (also known as &lt;i&gt;Fathers and Sons&lt;/i&gt;) is a novel written in 1862 by Russian writer Ivan Turgenev and published in Moscow by &lt;i&gt;The Russian Messenger&lt;/i&gt;. It was translated into English by Constance Garnett.&lt;/p&gt; &lt;p&gt;The main theme of the novel is the conflict between two generations—the “fathers,” the liberal serf owners, and the “children,” nihilists who reject their authority and traditions.&lt;/p&gt; &lt;p&gt;Turgenev also popularized the term &lt;i&gt;nihilism&lt;/i&gt;, which became widely used after the novel publication. It was also used by an influential Russian nihilist movement in the 1860s.&lt;/p&gt; &lt;p&gt;Despite being harshly criticized in Russia, the novel was very well received in Europe, being praised by influential novelists like Gustave Flaubert and Guy de Maupassant, thus becoming the first Russian novel to gain recognition in the Western literary world.&lt;/p&gt; </meta>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;Arkady, a university graduate, returns from St. Petersburg to his father’s estate with his mentor Bazarov—a nihilist.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Fathers and Children&lt;/i&gt; (also known as &lt;i&gt;Fathers and Sons&lt;/i&gt;) is a novel written in 1862 by Russian writer Ivan Turgenev and published in Moscow by &lt;i&gt;The Russian Messenger&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;The main theme of the novel is the conflict between two generations—the “fathers,” the liberal serf owners, and the “children,” nihilists who reject their authority and traditions.&lt;/p&gt;
+			&lt;p&gt;Turgenev’s novel also helped popularize the term “nihilism,” especially after the word’s use by an influential Russian nihilist movement in the 1860s.&lt;/p&gt;
+			&lt;p&gt;Despite being harshly criticized in Russia, the novel was very well received in Europe, being praised by influential novelists like Gustave Flaubert and Guy de Maupassant, making it the first Russian novel to gain recognition in the Western literary world.&lt;/p&gt;
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/30723</dc:source>
 		<dc:source>https://archive.org/details/harvardclassicss19elio</dc:source>
 		<meta property="se:production-notes">"semanticate" changes obscured name X⁠⸺</meta>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">76020</meta>
+		<meta property="se:reading-ease.flesch">72.16</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Fathers_and_Children</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ivan-turgenev_fathers-and-children_constance-garnett</meta>
 		<dc:creator id="author">Ivan Turgenev</dc:creator>
@@ -84,6 +90,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
