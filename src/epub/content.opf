@@ -45,9 +45,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Arkady returns to his father’s estate accompanied by his friend from university—a nihilist.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Arkady, a 	university graduate, returns from &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg to his father’s estate with his mentor Bazarov—a nihilist.&lt;/p&gt; &lt;p&gt;&lt;i&gt;Fathers and Children&lt;/i&gt; (also known as &lt;i&gt;Fathers and Sons&lt;/i&gt;) is a novel written in 1862 by Russian writer Ivan Turgenev and published in Moscow by &lt;i&gt;The Russian Messenger&lt;/i&gt;. It was translated into English by Constance Garnett.&lt;/p&gt; &lt;p&gt;The main theme of the novel is the conflict between two generations—the “fathers,” the liberal serf owners, and the “children,” nihilists who reject their authority and traditions.&lt;/p&gt; &lt;p&gt;Turgenev also popularized the term &lt;i&gt;nihilism&lt;/i&gt;, which became widely used after the novel publication. It was also used by an influential Russian nihilist movement in the 1860s.&lt;/p&gt; &lt;p&gt;Despite being harshly criticized in Russia, the novel was very well received in Europe, being praised by influential novelists like Gustave Flaubert and Guy de Maupassant, thus becoming the first Russian novel to gain recognition in the Western literary world.&lt;/p&gt;
-		</meta>
+		<meta id="long-description" property="se:long-description" refines="#description"> &lt;p&gt;Arkady, a university graduate, returns from &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg to his father’s estate with his mentor Bazarov—a nihilist.&lt;/p&gt; &lt;p&gt;&lt;i&gt;Fathers and Children&lt;/i&gt; (also known as &lt;i&gt;Fathers and Sons&lt;/i&gt;) is a novel written in 1862 by Russian writer Ivan Turgenev and published in Moscow by &lt;i&gt;The Russian Messenger&lt;/i&gt;. It was translated into English by Constance Garnett.&lt;/p&gt; &lt;p&gt;The main theme of the novel is the conflict between two generations—the “fathers,” the liberal serf owners, and the “children,” nihilists who reject their authority and traditions.&lt;/p&gt; &lt;p&gt;Turgenev also popularized the term &lt;i&gt;nihilism&lt;/i&gt;, which became widely used after the novel publication. It was also used by an influential Russian nihilist movement in the 1860s.&lt;/p&gt; &lt;p&gt;Despite being harshly criticized in Russia, the novel was very well received in Europe, being praised by influential novelists like Gustave Flaubert and Guy de Maupassant, thus becoming the first Russian novel to gain recognition in the Western literary world.&lt;/p&gt; </meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/30723</dc:source>
@@ -94,6 +92,7 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/biographical-note.xhtml" id="biographical-note.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1.xhtml" id="chapter-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-2.xhtml" id="chapter-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-3.xhtml" id="chapter-3.xhtml" media-type="application/xhtml+xml"/>
@@ -123,7 +122,7 @@
 		<item href="text/chapter-27.xhtml" id="chapter-27.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-28.xhtml" id="chapter-28.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/foreword.xhtml" id="foreword.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/criticisms-and-interpretations.xhtml" id="criticisms-and-interpretations.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -132,7 +131,8 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="foreword.xhtml"/>
+		<itemref idref="biographical-note.xhtml"/>
+		<itemref idref="criticisms-and-interpretations.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
