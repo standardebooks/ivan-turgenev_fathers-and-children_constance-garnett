@@ -28,3 +28,7 @@ footer{
 	text-indent: 0;
 }
 /* End poetry */
+
+.signature{
+	font-variant: small-caps;
+}
