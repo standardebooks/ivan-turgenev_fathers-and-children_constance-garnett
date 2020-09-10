@@ -29,6 +29,6 @@ footer{
 }
 /* End poetry */
 
-.signature{
+[epub:type~="z3998:signature"]{
 	font-variant: small-caps;
 }
