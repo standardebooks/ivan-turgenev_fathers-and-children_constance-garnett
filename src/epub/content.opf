@@ -60,7 +60,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/30723</dc:source>
 		<dc:source>https://archive.org/details/harvardclassicss19elio</dc:source>
 		<meta property="se:production-notes">"semanticate" changes obscured name X⁠⸺</meta>
-		<meta property="se:word-count">76020</meta>
+		<meta property="se:word-count">76022</meta>
 		<meta property="se:reading-ease.flesch">72.16</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Fathers_and_Children</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ivan-turgenev_fathers-and-children_constance-garnett</meta>
