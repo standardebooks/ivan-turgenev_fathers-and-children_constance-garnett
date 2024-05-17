@@ -48,6 +48,8 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">Arkady returns to his father’s estate accompanied by his friend from university—a nihilist.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Arkady, a university graduate, returns from &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg to his father’s estate with his mentor Bazarov—a nihilist.&lt;/p&gt;
