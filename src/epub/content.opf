@@ -30,6 +30,7 @@
 		<dc:title id="title">Fathers and Children</dc:title>
 		<meta property="file-as" refines="#title">Fathers and Children</meta>
 		<meta property="title-type" refines="#title">main</meta>
+		<meta property="dcterms:alternative" refines="#title">Fathers and Sons</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">Fathers and sons -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Domestic fiction</dc:subject>
