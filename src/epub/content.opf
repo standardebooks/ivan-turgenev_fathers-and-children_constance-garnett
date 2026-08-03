@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/ivan-turgenev/fathers-and-children/constance-garnett</dc:identifier>
 		<dc:date>2019-03-25T19:30:29Z</dc:date>
@@ -52,14 +52,14 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">Arkady returns to his father’s estate accompanied by his friend from university—a nihilist.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Arkady returns to his father’s estate accompanied by his friend from university—a nihilist.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Arkady, a university graduate, returns from &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg to his father’s estate with his mentor Bazarov—a nihilist.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Fathers and Children&lt;/i&gt; (also known as &lt;i&gt;Fathers and Sons&lt;/i&gt;) is a novel written in 1862 by Russian writer &lt;a href="https://standardebooks.org/ebooks/ivan-turgenev"&gt;Ivan Turgenev&lt;/a&gt; and published in Moscow by &lt;i&gt;The Russian Messenger&lt;/i&gt;.&lt;/p&gt;
 			&lt;p&gt;The main theme of the novel is the conflict between two generations—the “fathers,” the liberal serf owners, and the “children,” nihilists who reject their authority and traditions.&lt;/p&gt;
 			&lt;p&gt;Turgenev’s novel also helped popularize the term “nihilism,” especially after the word’s use by an influential Russian nihilist movement in the 1860s.&lt;/p&gt;
 			&lt;p&gt;Despite being harshly criticized in Russia, the novel was very well received in Europe, being praised by influential novelists like &lt;a href="https://standardebooks.org/ebooks/gustave-flaubert"&gt;Gustave Flaubert&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/guy-de-maupassant"&gt;Guy de Maupassant&lt;/a&gt;, making it the first Russian novel to gain recognition in the Western literary world.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/30723</dc:source>
 		<dc:source>https://archive.org/details/harvardclassicss19elio</dc:source>
