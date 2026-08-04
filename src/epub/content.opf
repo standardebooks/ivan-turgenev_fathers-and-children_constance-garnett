@@ -52,7 +52,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>Arkady returns to his father’s estate accompanied by his friend from university—a nihilist.</dc:abstract>
+		<meta property="schema:abstract">Arkady returns to his father’s estate accompanied by his friend from university—a nihilist.</meta>
 		<dc:description>
 			&lt;p&gt;Arkady, a university graduate, returns from &lt;abbr&gt;St.&lt;/abbr&gt; Petersburg to his father’s estate with his mentor Bazarov—a nihilist.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Fathers and Children&lt;/i&gt; (also known as &lt;i&gt;Fathers and Sons&lt;/i&gt;) is a novel written in 1862 by Russian writer &lt;a href="https://standardebooks.org/ebooks/ivan-turgenev"&gt;Ivan Turgenev&lt;/a&gt; and published in Moscow by &lt;i&gt;The Russian Messenger&lt;/i&gt;.&lt;/p&gt;
