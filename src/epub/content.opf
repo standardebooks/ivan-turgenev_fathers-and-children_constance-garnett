@@ -32,11 +32,11 @@
 		<meta property="file-as" refines="#title">Fathers and Children</meta>
 		<meta property="dcterms:alternative" refines="#title">Fathers and Sons</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
-		<dc:subject id="subject-2">Fathers and sons -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Fathers and sons--Fiction</dc:subject>
 		<dc:subject id="subject-3">Domestic fiction</dc:subject>
-		<dc:subject id="subject-4">Russia -- Social life and customs -- 1533-1917 -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Russia -- Social conditions -- 1801-1917 -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Nihilism (Philosophy) -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Russia--Social life and customs--1533-1917--Fiction</dc:subject>
+		<dc:subject id="subject-5">Russia--Social conditions--1801-1917--Fiction</dc:subject>
+		<dc:subject id="subject-6">Nihilism (Philosophy)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
