@@ -72,6 +72,7 @@
 		<dc:creator id="author">Ivan Turgenev</dc:creator>
 		<meta property="file-as" refines="#author">Turgenev, Ivan</meta>
 		<meta property="schema:alternateName" refines="#author">Ivan Sergeyevich Turgenev</meta>
+		<meta property="alternate-script" refines="#author">Иван Сергеевич Тургенев</meta>
 		<link href="https://en.wikipedia.org/wiki/Ivan_Turgenev" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79144981.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -83,6 +84,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Henri Fantin-Latour</dc:contributor>
 		<meta property="file-as" refines="#artist">Fantin-Latour, Henri</meta>
+		<meta property="schema:alternateName" refines="#artist">Ignace Henri Jean Théodore Fantin-Latour</meta>
 		<link href="https://en.wikipedia.org/wiki/Henri_Fantin-Latour" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n82025255.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
